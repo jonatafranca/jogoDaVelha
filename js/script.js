@@ -10,7 +10,7 @@ for ( i = 0; i < 3; i++) {
 }
 
 var turno = false;
- 	
+//utilizando 1 e 5 como maneira matemática de validação 	
 function darValor( btn ){
 
 	if( btn.disable != true ) {
